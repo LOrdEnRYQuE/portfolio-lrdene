@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "include": ["/_next/*", "/_static/*", "/_worker.js"],
+  "exclude": ["/.*"]
+}
